@@ -1,0 +1,27 @@
+input {
+    color: black;
+}
+
+label {
+    font-size: 350%;
+}
+
+h3 {
+    font-size: 325%;
+    font-weight: 50;
+    margin: auto;
+    width: 85%;
+    color: 100;
+}
+
+span {
+    border-bottom: 2px solid black;
+}
+
+.blue {
+    color: blue;
+}
+
+.big {
+    font-size: 45px;
+}

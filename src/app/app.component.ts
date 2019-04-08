@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'mad-libs';
+  appInput: string=null;
+  otherInput: string=null;
+  userName: string=null;
+  hideTitle: boolean = true;
 }
+
